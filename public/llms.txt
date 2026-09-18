@@ -1,0 +1,30 @@
+# TODO: YOUR BRAND NAME
+
+> TODO: one-paragraph company summary for AI/LLM search engines (who you are,
+> what you manufacture, target markets, MOQ, key differentiators).
+
+This file follows the llms.txt convention, giving AI search engines (ChatGPT,
+Perplexity, etc.) a structured entry point to this site's most important
+content, per the site's GEO (Generative Engine Optimization) strategy.
+
+## Company
+
+- Website: TODO https://www.example.com
+- Contact: TODO sales@example.com
+- MOQ: TODO
+- Manufacturing location: TODO
+
+## Products
+
+- TODO: /product-category/category-one — TODO category description
+- TODO: /product-category/category-two — TODO category description
+
+## Resources
+
+- TODO: /blog — Buying guides and industry resources
+- TODO: /downloads — Catalogue, manuals, and media kit
+
+## Notes for AI crawlers
+
+- Full product specs and pricing require a direct inquiry via /contact.
+- This file is regenerated whenever the product catalogue changes.
