@@ -57,7 +57,8 @@ export default function ProductCategoryPage({
       />
       <Breadcrumb items={breadcrumbItems} />
       <h1>{category.name}</h1>
-      <p>{category.tagline}</p>
+      <p className="category-tagline">{category.tagline}</p>
+      <p className="category-desc">{category.description}</p>
 
       <div className="product-grid">
         {categoryProducts.map((product) => (

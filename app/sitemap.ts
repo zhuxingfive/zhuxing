@@ -1,10 +1,9 @@
 import type { MetadataRoute } from "next";
 import { site } from "@/lib/site";
 import { productCategories, products } from "@/lib/products";
-import { posts } from "@/lib/posts";
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const staticRoutes = ["", "/product-category", "/gallery", "/downloads", "/contact", "/blog"].map(
+  const staticRoutes = ["", "/product-category", "/about", "/gallery", "/downloads", "/contact"].map(
     (route) => ({
       url: `${site.url}${route}`,
       lastModified: new Date()
@@ -21,10 +20,5 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date()
   }));
 
-  const postRoutes = posts.map((p) => ({
-    url: `${site.url}/blog/${p.slug}`,
-    lastModified: p.dateModified ?? p.datePublished
-  }));
-
-  return [...staticRoutes, ...categoryRoutes, ...productRoutes, ...postRoutes];
+  return [...staticRoutes, ...categoryRoutes, ...productRoutes];
 }

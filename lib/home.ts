@@ -1,34 +1,39 @@
-// Homepage section content, structured to mirror the explo.at layout.
-// TODO: replace all placeholder copy/images with real brand content.
+// Homepage section content for Zhuxing Pyrotechnics.
 
 export const promoBanner = {
-  eyebrow: "Limited-Time Offer",
-  title: "TODO: Seasonal Promotion Headline",
-  body: "TODO: Describe your current promotion — e.g. a discount window, price lock, or bundle offer with start/end dates.",
-  cta: { label: "Learn More", href: "/contact" }
+  eyebrow: "Factory Direct — OEM / ODM Welcome",
+  title: "Wholesale Pyrotechnic & Stage Effect Equipment",
+  body: "Buy direct from the manufacturer: cold spark machines, wireless firing systems, electric igniters, mortar tubes and gender-reveal effects. Competitive factory pricing, custom branding and worldwide shipping.",
+  cta: { label: "Request a Quote", href: "/contact" }
 };
 
 export const customerNotice = {
-  title: "TODO: Customer Information Notice",
-  body: "TODO: Short product update / firmware / service notice. Link to details below.",
-  link: { label: ">> Downloads section", href: "/downloads" }
+  title: "Complete Firing Solutions Under One Roof",
+  body: "From igniters and connect wire to firing systems, mortar tubes and racks — source a full professional display kit from a single factory.",
+  link: { label: "Browse all products", href: "/product-category" }
 };
 
-// Alternating image/text showcase blocks — one per product category.
 export const showcaseBlocks = [
   {
-    eyebrow: "Category One",
-    title: "TODO: Compelling headline for category one",
-    body: "TODO: 1-2 sentence value proposition for this category.",
-    cta: { label: "View Our Catalogue", href: "/product-category/category-one" },
-    image: "/products/category-one-hero.jpg"
+    eyebrow: "Wedding & Stage Effects",
+    title: "Smokeless Cold Spark Fountains for Indoor Celebrations",
+    body: "Cold spark machines, wireless fountain firing systems and handheld sparklers that deliver bright, flameless effects safe to fire metres from your guests.",
+    cta: { label: "View Cold Sparklers", href: "/product-category/wedding-cold-sparklers" },
+    image: "/banners/gallery.jpg"
   },
   {
-    eyebrow: "Category Two",
-    title: "TODO: Compelling headline for category two",
-    body: "TODO: 1-2 sentence value proposition for this category.",
-    cta: { label: "View Our Catalogue", href: "/product-category/category-two" },
-    image: "/products/category-two-hero.jpg"
+    eyebrow: "Gender Reveal",
+    title: "Vivid Pink & Blue Smoke and Powder Effects",
+    body: "Color smoke machines, refill smoke fluid and long-range powder cannons engineered for photogenic, foolproof reveal moments.",
+    cta: { label: "View Gender Reveal", href: "/product-category/gender-reveal" },
+    image: "/products/color-smoke-machine/color-smoke-machine-2.jpg"
+  },
+  {
+    eyebrow: "Fireworks Display",
+    title: "Firing Systems, Igniters, Mortar Tubes & Racks",
+    body: "Professional-grade wireless firing systems, e-match igniters, fiberglass mortar tubes and aluminum racks for safe, synchronized large-scale displays.",
+    cta: { label: "View Display Equipment", href: "/product-category/fireworks-display" },
+    image: "/banners/display.jpg"
   }
 ];
 
@@ -42,22 +47,6 @@ export type EventItem = {
   city: string;
 };
 
-// Upcoming trade shows / events.
-export const upcomingEvents: EventItem[] = [
-  {
-    day: "TBD",
-    month: "TODO",
-    year: "2027",
-    name: "TODO: Trade Show Name",
-    detail: "TODO: dates and booth number",
-    country: "TODO Country",
-    city: "TODO City"
-  }
-];
+export const upcomingEvents: EventItem[] = [];
 
-// Social feed placeholders (replace with real embed or curated posts later).
-export const socialPosts = [
-  { image: "/social/placeholder-1.jpg", caption: "TODO: social post caption", date: "TODO" },
-  { image: "/social/placeholder-2.jpg", caption: "TODO: social post caption", date: "TODO" },
-  { image: "/social/placeholder-3.jpg", caption: "TODO: social post caption", date: "TODO" }
-];
+export const socialPosts: { image: string; caption: string; date: string }[] = [];

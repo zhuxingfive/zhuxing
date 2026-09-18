@@ -1,19 +1,17 @@
-// Three trust pillars, reused across Home / Category / Product / Contact pages
-// (explo.at pattern: reliability, customer-driven innovation, local quality).
-// TODO: rewrite copy to match your factory's real strengths.
+// Three trust pillars for Zhuxing Pyrotechnics, reused across pages.
 
 const pillars = [
   {
-    title: "Reliable Quality You Can Trust",
-    body: "TODO: describe your manufacturing consistency, QC process, or certifications."
+    title: "Dual-Expertise Manufacturer",
+    body: "One factory for both pyrotechnic display equipment and commercial stage effect machines — from outdoor firework finales to intimate indoor weddings."
   },
   {
-    title: "Customer-Driven Development",
-    body: "TODO: describe how customer feedback shapes your product line."
+    title: "Safety & Precision Engineered",
+    body: "Firing systems, igniters and cold-spark effects built for synchronized, reliable performance under pressure, with strict quality control on every batch."
   },
   {
-    title: "Factory-Direct Advantage",
-    body: "TODO: describe where you manufacture, capacity, and support."
+    title: "Factory-Direct with OEM/ODM",
+    body: "Competitive manufacturer pricing, custom branding, flexible customization and dedicated after-sales support for event professionals and resellers worldwide."
   }
 ];
 

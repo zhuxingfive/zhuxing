@@ -1,6 +1,4 @@
-// Downloads center data model — modeled on explo.at's resource library:
-// manuals / spec sheets / catalogue / media kit, grouped by category.
-// TODO: Replace with real downloadable assets (PDF catalogue, product manuals, media kit).
+// Downloads center — Zhuxing Pyrotechnics resource library.
 
 export type DownloadItem = {
   label: string;
@@ -15,15 +13,15 @@ export type DownloadGroup = {
 
 export const downloadGroups: DownloadGroup[] = [
   {
-    title: "Catalogue",
-    items: [{ label: "TODO Product Catalogue (PDF)", href: "/downloads/catalogue.pdf" }]
+    title: "Company",
+    items: [
+      { label: "Zhuxing Company Profile (PDF)", href: "/downloads/zhuxing-company-profile.pdf" }
+    ]
   },
   {
-    title: "Manuals",
-    items: [{ label: "TODO Product Manual", href: "/downloads/manual-sample.pdf" }]
-  },
-  {
-    title: "Media Kit",
-    items: [{ label: "TODO Brand Logo Pack", href: "/downloads/logo-pack.zip" }]
+    title: "Safety & Compliance",
+    items: [
+      { label: "MSDS — Electric Igniter (PDF)", href: "/downloads/MSDS-electric-igniter.pdf" }
+    ]
   }
 ];

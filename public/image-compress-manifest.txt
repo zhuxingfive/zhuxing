@@ -1,0 +1,24 @@
+﻿图片压缩处理清单 (System.Drawing / PowerShell)
+生成时间: 2026-09-18 16:56:58
+规则: 最长边<=1400px(不放大), JPEG质量82(自动降级至<450KB), 全部输出.jpg
+
+=== 输出目录1: public\gallery (场景图, Gallery页) ===
+scene-1.jpg	167.4 KB
+scene-2.jpg	270.7 KB
+scene-3.jpg	313.3 KB
+scene-4.jpg	222.4 KB
+scene-5.jpg	230.2 KB
+
+=== 输出目录2: public\workshop (车间图, About展示) ===
+workshop-1.jpg	186.1 KB
+workshop-2.jpg	287.3 KB
+workshop-3.jpg	291.8 KB
+workshop-4.jpg	198.7 KB
+workshop-5.jpg	214.4 KB
+workshop-6.jpg	248.6 KB
+workshop-7.jpg	247.7 KB
+workshop-8.jpg	191.2 KB
+workshop-9.jpg	213.7 KB
+workshop-10.jpg	209.6 KB
+workshop-11.jpg	267.6 KB
+workshop-12.jpg	180.1 KB

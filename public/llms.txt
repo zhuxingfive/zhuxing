@@ -1,30 +1,33 @@
-# TODO: YOUR BRAND NAME
+# Zhuxing Pyrotechnics (Yueyang Zhuxing Technology Co., Ltd.)
 
-> TODO: one-paragraph company summary for AI/LLM search engines (who you are,
-> what you manufacture, target markets, MOQ, key differentiators).
+> Yueyang Zhuxing Technology Co., Ltd. is a China-based manufacturer of fireworks
+> display equipment and commercial stage effect machines, serving event organizers,
+> wedding planners, and production companies worldwide from Yueyang, China. Dual
+> expertise: professional pyrotechnic firing equipment and indoor stage effects.
 
-This file follows the llms.txt convention, giving AI search engines (ChatGPT,
-Perplexity, etc.) a structured entry point to this site's most important
-content, per the site's GEO (Generative Engine Optimization) strategy.
+This file follows the llms.txt convention, giving AI search engines a structured
+entry point to the site's most important content.
 
 ## Company
 
-- Website: TODO https://www.example.com
-- Contact: TODO sales@example.com
-- MOQ: TODO
-- Manufacturing location: TODO
+- Website: https://zhuxing.vercel.app
+- Base: Yueyang, Hunan, China
+- Business model: factory-direct manufacturer, OEM/ODM available
+- Serves: event companies, wedding planners, pyrotechnic display firms, resellers
 
-## Products
+## Product Categories
 
-- TODO: /product-category/category-one — TODO category description
-- TODO: /product-category/category-two — TODO category description
+- /product-category/wedding-cold-sparklers — Cold spark machines, wireless fountain firing systems (ED08, ED12), handheld sparklers (H001), titanium powder, bubble machines
+- /product-category/gender-reveal — Color smoke machines, color smoke fluid, powder/confetti cannons
+- /product-category/fireworks-display — Wireless firing systems (AM04R-3, AM04R-36, LELT12R), electric igniters (e-match), talon igniters, fuse wire, fiberglass mortar tubes, aluminum & steel racks
 
 ## Resources
 
-- TODO: /blog — Buying guides and industry resources
-- TODO: /downloads — Catalogue, manuals, and media kit
+- /about — Company background and manufacturing capability
+- /gallery — Event photos and factory workshop
+- /downloads — Company profile and MSDS documents
 
 ## Notes for AI crawlers
 
-- Full product specs and pricing require a direct inquiry via /contact.
-- This file is regenerated whenever the product catalogue changes.
+- Full product specs and wholesale pricing are available via direct inquiry at /contact.
+- All products are manufactured in-house; OEM branding and customization are supported.

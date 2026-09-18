@@ -1,4 +1,5 @@
 import Link from "next/link";
+import Image from "next/image";
 import { site } from "@/lib/site";
 import { productCategories } from "@/lib/products";
 
@@ -7,7 +8,8 @@ export default function Header() {
     <header className="site-header">
       <div className="container header-inner">
         <Link href="/" className="brand">
-          {site.brand}
+          <Image src={site.logo} alt={site.brand} width={40} height={40} className="brand-logo" />
+          <span>{site.brand}</span>
         </Link>
         <nav className="main-nav">
           <div className="nav-dropdown">
@@ -20,9 +22,9 @@ export default function Header() {
               ))}
             </div>
           </div>
+          <Link href="/about">About</Link>
           <Link href="/gallery">Gallery</Link>
           <Link href="/downloads">Downloads</Link>
-          <Link href="/blog">Resources</Link>
           <Link href="/contact" className="nav-cta">
             Contact
           </Link>

@@ -1,28 +1,28 @@
-// Global site configuration.
-// TODO: Replace ALL placeholder values below with real brand data once provided.
-// This mirrors the lib/site.ts pattern described in the technical handbook:
-// change brand / contact / SEO defaults in ONE place only.
+// Global site configuration — single source of truth for brand, contact, SEO.
+// Company: Yueyang Zhuxing Technology Co., Ltd.
+// NOTE: contact email/phone/WhatsApp are placeholders pending confirmation from the owner.
 
 export const site = {
-  brand: "YOUR BRAND NAME", // TODO
-  domain: "example.com", // TODO
-  url: "https://www.example.com", // TODO
-  tagline: "YOUR ONE-LINE POSITIONING STATEMENT", // TODO, e.g. "Spectacular Reliability"
+  brand: "Zhuxing Pyrotechnics",
+  legalName: "Yueyang Zhuxing Technology Co., Ltd.",
+  domain: "zhuxing.vercel.app",
+  url: "https://zhuxing.vercel.app",
+  tagline: "Pyrotechnic & Stage Effect Equipment Manufacturer",
   description:
-    "TODO: 150-160 character meta description covering what you make, for whom, and your key differentiator.",
-  logo: "/logo.svg", // TODO
-  whatsapp: "+00 000 0000 0000", // TODO
-  email: "sales@example.com", // TODO
-  phone: "+00 000 0000 0000", // TODO
-  moq: "TBD", // TODO, e.g. "50 pcs"
+    "Yueyang Zhuxing Technology is a China-based manufacturer of fireworks firing systems, electric igniters, mortar tubes, cold spark machines and gender-reveal effects for event and pyrotechnic professionals worldwide.",
+  logo: "/logo.jpg",
+  whatsapp: "+86 000 0000 0000", // TODO: confirm real WhatsApp number
+  email: "sales@example.com", // TODO: confirm real sales email
+  phone: "+86 000 0000 0000", // TODO: confirm real phone
+  moq: "Contact us",
   address: {
-    company: "TODO Company Legal Name",
-    line1: "TODO Street Address",
-    city: "TODO City",
-    postalCode: "TODO",
-    country: "TODO Country"
+    company: "Yueyang Zhuxing Technology Co., Ltd.",
+    line1: "Yueyang City", // TODO: full street address
+    city: "Yueyang",
+    postalCode: "", // TODO
+    country: "Hunan, China"
   },
-  businessHours: "Mon - Fri: 9:00-18:00 (TODO adjust to your timezone)",
+  businessHours: "Mon - Fri: 9:00-18:00 (GMT+8)",
   social: {
     facebook: "",
     instagram: "",

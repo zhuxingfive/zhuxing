@@ -13,8 +13,9 @@ export default function ProductCard({ product }: { product: Product }) {
           height={400}
         />
       </div>
-      <h4>{product.name}</h4>
+      <h4>{product.model}</h4>
       <p>{product.tagline}</p>
+      <span className="link-arrow">View details &amp; quote &rarr;</span>
     </Link>
   );
 }
