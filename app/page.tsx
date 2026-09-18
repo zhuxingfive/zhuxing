@@ -1,5 +1,6 @@
 import Hero from "@/components/Hero";
 import PromoBanner from "@/components/PromoBanner";
+import FeaturedCategories from "@/components/FeaturedCategories";
 import CustomerNotice from "@/components/CustomerNotice";
 import TrustPillars from "@/components/TrustPillars";
 import CategoryShowcase from "@/components/CategoryShowcase";
@@ -10,6 +11,7 @@ export default function HomePage() {
     <>
       <Hero />
       <PromoBanner />
+      <FeaturedCategories />
       <TrustPillars />
       <CategoryShowcase />
       <CustomerNotice />
