@@ -24,6 +24,7 @@ export default function Header() {
           </div>
           <Link href="/about">About</Link>
           <Link href="/gallery">Gallery</Link>
+          <Link href="/blog">Blogs</Link>
           <Link href="/downloads">Downloads</Link>
           <Link href="/contact" className="nav-cta">
             Contact
