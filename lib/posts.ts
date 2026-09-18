@@ -401,6 +401,286 @@ export const posts: Post[] = [
       }
     ],
     cta: "Ready to source factory-direct? Tell us your product list and target quantities for a fast wholesale quotation with OEM options."
+  },
+  {
+    slug: "cold-spark-machine-wedding-setup-guide",
+    title: "Wedding Cold Spark Setup Guide: Placement, Timing & First-Dance Effects",
+    description:
+      "How to set up cold spark machines for weddings — machine placement, how many units, first-dance and send-off timing, and safety tips for flawless photos.",
+    datePublished: "2026-09-18",
+    category: "Cold Spark Machines",
+    readingTime: "7 min read",
+    cover: "/banners/gallery.jpg",
+    tldr: [
+      "Place machines in front of or beside the couple — never directly behind — to protect the wide photo shot.",
+      "Two units suit a simple first dance; four create a fuller wall of sparks.",
+      "Best moments: grand entrance, first dance and the send-off.",
+      "Coordinate clearance and detector placement with the venue in advance."
+    ],
+    keywords: [
+      "cold spark machine wedding setup",
+      "cold sparkler first dance",
+      "how many cold spark machines wedding",
+      "wedding send off sparkler effect"
+    ],
+    body: [
+      {
+        heading: "Where to place the machines",
+        paragraphs: [
+          "Placement makes or breaks the shot. Positioning cold spark machines behind the couple throws sparks toward the camera and ruins the wide angle; placing them in front of or flanking the couple frames them inside the sparks for that iconic photo. Aim the fountains upward and slightly inward so the columns meet without crowding the performers.",
+          "Keep the recommended clearance from guests and any low-hanging décor, and make sure the spray path is clear of drapes, floral arches and the cake table."
+        ]
+      },
+      {
+        heading: "How many machines do you need?",
+        paragraphs: [
+          "For an intimate first dance, two machines on opposite sides of the floor deliver a clean, symmetrical effect. For a bigger visual — a grand entrance or a dramatic send-off down an aisle — four machines create a fuller wall of sparks and a more immersive moment.",
+          "Compact units like our mini cold spark machine are ideal here: planners buy them in pairs and fours to frame the whole floor, and their small footprint hides easily among the décor."
+        ]
+      },
+      {
+        heading: "Timing the key moments",
+        paragraphs: [
+          "The three highest-impact moments are the grand entrance, the first dance chorus, and the send-off. Cue the sparks to the musical peak of the first dance rather than the opening bar, so the effect lands with the emotional high point.",
+          "Wireless or DMX control lets the operator or DJ trigger each moment precisely. A quick rehearsal cue before guests arrive ensures the timing is perfect when it counts."
+        ]
+      },
+      {
+        heading: "Equip your rental fleet the smart way",
+        paragraphs: [
+          "Wedding and events companies that offer cold sparks as a package build a fleet of reliable machines plus a steady titanium powder supply. Buying both from one factory keeps every booking looking identical and protects margin across a busy season.",
+          "As the manufacturer of the machines and the powder, we help wedding professionals scale their cold-spark offering with factory pricing, matched multi-unit sets and OEM branding."
+        ]
+      }
+    ],
+    faq: [
+      {
+        question: "How many cold spark machines do I need for a wedding?",
+        answer:
+          "Two machines work for a simple first dance; four give a fuller effect for grand entrances or send-offs. It depends on the floor size and the look you want."
+      },
+      {
+        question: "Where should cold spark machines be placed?",
+        answer:
+          "In front of or beside the couple, aimed upward and slightly inward — never directly behind them, which throws sparks toward the camera and spoils the wide shot."
+      },
+      {
+        question: "Are cold sparks safe for a first dance?",
+        answer:
+          "Yes. The sparks cool almost instantly and are smokeless, so with proper clearance and venue coordination they are safe for close-proximity moments like a first dance."
+      }
+    ],
+    cta: "Building a wedding cold-spark rental package? Get factory pricing on machines, powder and matched multi-unit sets — contact our team."
+  },
+  {
+    slug: "cold-spark-machine-maintenance-troubleshooting",
+    title: "Cold Spark Machine Maintenance & Troubleshooting: Keep Every Show Flawless",
+    description:
+      "A practical maintenance and troubleshooting guide for cold spark machines — cleaning powder residue, fixing weak sparks, powder feeding issues and storage tips.",
+    datePublished: "2026-09-18",
+    category: "Cold Spark Machines",
+    readingTime: "6 min read",
+    cover: "/products/cold-spark-machine/cold-spark-machine-1.jpg",
+    tldr: [
+      "Clean powder residue after events to protect feed consistency and spark quality.",
+      "Weak sparks usually mean low/damp powder or a dirty heating element.",
+      "Use only dry, fresh titanium powder and store machines in a dry place.",
+      "Routine care extends machine life and keeps rental units reliable."
+    ],
+    keywords: [
+      "cold spark machine maintenance",
+      "cold spark machine troubleshooting",
+      "cold spark machine cleaning",
+      "cold spark machine weak sparks fix"
+    ],
+    body: [
+      {
+        heading: "Why maintenance matters for rental fleets",
+        paragraphs: [
+          "A cold spark machine is a mechanical device feeding fine metal powder through a heating element. Residue builds up over time, and neglected machines start to feed inconsistently, produce weaker fountains, or fail mid-show — a disaster in front of a paying client.",
+          "For rental companies running back-to-back events, a simple after-event maintenance routine is the difference between a fleet that performs identically every time and one that slowly degrades."
+        ]
+      },
+      {
+        heading: "Cleaning after each event",
+        paragraphs: [
+          "After the machine cools, invert it and shake out remaining powder, then use a small vacuum or crevice tool to clear residue from gaps and the output. Wipe accessible surfaces and inspect the output nozzle for buildup.",
+          "Never leave spent powder inside a stored machine — residue absorbs moisture and clumps, which is the most common cause of poor feeding and weak sparks at the next event."
+        ]
+      },
+      {
+        heading: "Troubleshooting common issues",
+        paragraphs: [
+          "Weak or thin sparks usually trace to one of three causes: low powder level, damp or old powder, or a dirty heating element. Refill with fresh, dry powder and run a cleaning cycle before assuming a hardware fault.",
+          "Inconsistent feeding often means residue in the feed path — a full clean typically restores it. If the machine warms but produces no sparks after cleaning and fresh powder, the heating element or motor may need service; contact your supplier before improvising repairs."
+        ]
+      },
+      {
+        heading: "Powder quality and storage",
+        paragraphs: [
+          "Spark quality is only as good as the powder. Consistent, correctly graded titanium composite powder burns evenly and feeds smoothly; cheap or inconsistent powder causes sputtering and residue. Store both powder and machines in a dry environment.",
+          "Because we manufacture the machines and the powder together, our powder is graded specifically for our units — which means consistent sparks and less residue. Sourcing both from one factory keeps maintenance predictable and your fleet reliable."
+        ]
+      }
+    ],
+    faq: [
+      {
+        question: "Why is my cold spark machine producing weak sparks?",
+        answer:
+          "Usually low or damp powder, or a dirty heating element. Refill with fresh, dry powder and run a cleaning cycle before suspecting a hardware fault."
+      },
+      {
+        question: "How often should I clean a cold spark machine?",
+        answer:
+          "Clean after each event or heavy use. Shake out leftover powder and clear residue from the feed path and output to protect spark quality."
+      },
+      {
+        question: "Can I use any titanium powder in the machine?",
+        answer:
+          "Use powder graded for your machine. Inconsistent powder causes sputtering and residue. Our powder is graded for our units for consistent results."
+      }
+    ],
+    cta: "Need machines and correctly graded titanium powder from one source? Contact us for factory-direct supply and support."
+  },
+  {
+    slug: "how-to-choose-mortar-tube-size",
+    title: "How to Choose Mortar Tube Size: Caliber, Material & Rack Setup Explained",
+    description:
+      "A display buyer's guide to choosing fireworks mortar tubes — matching shell caliber to tube size, fiberglass durability, and pairing tubes with the right racks.",
+    datePublished: "2026-09-18",
+    category: "Firing Systems",
+    readingTime: "7 min read",
+    cover: "/products/fiberglass-mortar-tube/fiberglass-mortar-tube-1.jpg",
+    tldr: [
+      "Match tube caliber to the shell — never fire an undersized shell from an oversized tube.",
+      "Fiberglass offers a strong, lightweight, reusable balance for professional use.",
+      "Tube bore ranges from 2 inch up to 12 inch for different shell sizes.",
+      "Pair tubes with the right rack — aluminum for portability, steel for heavy mortars."
+    ],
+    keywords: [
+      "how to choose mortar tube size",
+      "fireworks mortar tube caliber guide",
+      "fiberglass mortar tube fireworks",
+      "mortar rack setup"
+    ],
+    body: [
+      {
+        heading: "Match the tube to the shell",
+        paragraphs: [
+          "The single most important rule: the mortar tube caliber must match the shell it fires. A shell that is too small for the tube can shift or tilt, sending the effect off-axis; the tube's internal diameter is what defines the shell size it is designed to launch.",
+          "Our fiberglass tubes come in a full bore range — 2, 2.5, 3, 4, 5, 6, 8, 10 and 12 inch — so a display company can stock the exact calibers its shows require rather than compromising with mismatched sizes."
+        ]
+      },
+      {
+        heading: "Why fiberglass for professional work",
+        paragraphs: [
+          "Fiberglass tubes hit the professional sweet spot: strong enough to withstand repeated firing, yet light enough to rack, carry and reposition quickly on a field. That strength-to-weight balance is why display crews favor fiberglass for touring shows.",
+          "Fiberglass also lasts across many seasons, making it a durable-goods investment rather than a per-show consumable. Custom color and logo options let display firms brand their field hardware."
+        ]
+      },
+      {
+        heading: "Pairing tubes with the right rack",
+        paragraphs: [
+          "Tubes need racks to hold firing angle and geometry. For single-shot arrays of Roman candles and small calibers, a lightweight aluminum rack sets up fast and carries easily. For heavy mortars and high-volume firing, a rigid steel rack provides the stability to hold angle under recoil.",
+          "The right combination depends on the show: light aluminum for speed and portability, steel for heavy-calibre stability. Many crews carry both and match the rack to each job."
+        ]
+      },
+      {
+        heading: "Source tubes, racks and igniters together",
+        paragraphs: [
+          "Tubes, racks, igniters and firing systems all work as one kit. Sourcing them from a single manufacturer guarantees compatible sizing and simplifies reordering across a display operation.",
+          "As a factory producing fiberglass mortar tubes, aluminum and steel racks, igniters and firing systems, we help display companies assemble a complete, correctly-matched firing setup at wholesale pricing with custom branding."
+        ]
+      }
+    ],
+    faq: [
+      {
+        question: "What size mortar tube do I need?",
+        answer:
+          "Match the tube's internal diameter to your shell caliber. Never fire an undersized shell from an oversized tube, as it can shift and fire off-axis."
+      },
+      {
+        question: "Are fiberglass mortar tubes better than cardboard?",
+        answer:
+          "For professional, repeated use, fiberglass is far more durable than cardboard and offers a strong, lightweight, reusable option for display work."
+      },
+      {
+        question: "Which rack should I use with my tubes?",
+        answer:
+          "Aluminum racks for portability and single-shot arrays; steel racks for heavy mortars needing maximum stability. Many crews use both depending on the show."
+      }
+    ],
+    cta: "Planning your mortar and rack inventory? We manufacture tubes, racks, igniters and firing systems — contact us for a matched wholesale kit."
+  },
+  {
+    slug: "special-effects-trade-show-sourcing-guide",
+    title: "Sourcing Special Effects Equipment at Trade Shows: A Buyer's Selection Guide",
+    description:
+      "How event and pyrotechnic buyers evaluate special effects suppliers at trade shows — what to check, questions to ask, and how to secure factory-direct deals.",
+    datePublished: "2026-09-18",
+    category: "Sourcing & Wholesale",
+    readingTime: "6 min read",
+    cover: "/workshop/workshop-2.jpg",
+    tldr: [
+      "Trade shows are ideal for comparing suppliers side by side — but prepare a checklist first.",
+      "Prioritize actual manufacturers over trading companies for pricing and OEM control.",
+      "Ask about MOQ, lead time, customization, compliance docs and after-sales.",
+      "Follow up with a sample or trial order before committing to volume."
+    ],
+    keywords: [
+      "special effects equipment trade show",
+      "pyrotechnic supplier selection",
+      "cold spark machine supplier trade show",
+      "fireworks equipment sourcing"
+    ],
+    body: [
+      {
+        heading: "Why trade shows still matter for sourcing",
+        paragraphs: [
+          "Trade shows let buyers see cold spark machines, firing systems and effects fire in person, compare multiple suppliers in an afternoon, and meet the people behind the products. For high-value equipment, that hands-on comparison is hard to replicate online.",
+          "The buyers who get the most from a show arrive with a checklist and clear criteria, rather than browsing booth to booth without a plan."
+        ]
+      },
+      {
+        heading: "Manufacturer or middleman?",
+        paragraphs: [
+          "The first thing to establish at any booth is whether you are talking to the actual manufacturer or a trading company reselling someone else's products. Manufacturers offer better pricing, direct OEM/ODM control and genuine technical support; middlemen add margin without added value.",
+          "Ask to see workshop photos, production capability and certifications. A real factory answers confidently; a reseller deflects."
+        ]
+      },
+      {
+        heading: "The questions that separate serious suppliers",
+        paragraphs: [
+          "Run through a consistent checklist at each booth: minimum order quantity, lead time, customization and branding options, compliance documentation (such as MSDS for igniters), and after-sales support. Note how completely and confidently each supplier answers.",
+          "For consumables like titanium powder and smoke fluid, ask about ongoing supply reliability — a great machine is useless if you cannot restock what it burns."
+        ]
+      },
+      {
+        heading: "From booth to purchase order",
+        paragraphs: [
+          "Don't commit to volume on the show floor. Collect quotes, request a sample or small trial order, and verify quality before scaling up. A supplier confident in their product will welcome a trial.",
+          "As a manufacturer of cold spark machines, powder, firing systems, igniters, tubes and racks, we support buyers with samples, transparent factory pricing and OEM options — whether you meet us at a show or reach out directly."
+        ]
+      }
+    ],
+    faq: [
+      {
+        question: "How do I know if a supplier is a real manufacturer?",
+        answer:
+          "Ask for workshop photos, production capability and certifications. Real factories share them readily; trading companies usually cannot."
+      },
+      {
+        question: "What should I ask a special effects supplier before buying?",
+        answer:
+          "MOQ, lead time, customization/OEM options, compliance documents like MSDS, after-sales support, and consumable supply reliability."
+      },
+      {
+        question: "Should I place a large order at a trade show?",
+        answer:
+          "Better to collect quotes and request a sample or trial order first, verify quality, then scale to volume once you are confident."
+      }
+    ],
+    cta: "Evaluating suppliers for special effects equipment? Request a sample and factory-direct quote from a real manufacturer — contact us today."
   }
 ];
 
