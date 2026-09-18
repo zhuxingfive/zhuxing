@@ -11,9 +11,9 @@ export const site = {
   description:
     "Yueyang Zhuxing Technology is a China-based manufacturer of fireworks firing systems, electric igniters, mortar tubes, cold spark machines and gender-reveal effects for event and pyrotechnic professionals worldwide.",
   logo: "/logo.jpg",
-  whatsapp: "+86 000 0000 0000", // TODO: confirm real WhatsApp number
-  email: "sales@example.com", // TODO: confirm real sales email
-  phone: "+86 000 0000 0000", // TODO: confirm real phone
+  whatsapp: "+86 15386488523",
+  email: "five@yueyangzhuxing.com",
+  phone: "+86 15386488523",
   moq: "Contact us",
   address: {
     company: "Yueyang Zhuxing Technology Co., Ltd.",
