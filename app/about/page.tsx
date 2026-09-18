@@ -41,9 +41,9 @@ export default function AboutPage() {
         </p>
       </div>
 
-      <div className="gallery-grid">
+      <div className="about-image-row">
         {workshopImages.map((src, i) => (
-          <div key={i} className="gallery-item">
+          <div key={i} className="about-image">
             <Image src={src} alt={`Zhuxing factory ${i + 1}`} width={480} height={360} />
           </div>
         ))}

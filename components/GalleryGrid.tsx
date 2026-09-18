@@ -1,12 +1,24 @@
 import Image from "next/image";
+import type { GalleryEntry } from "@/lib/gallery";
 
-export default function GalleryGrid({ images }: { images: string[] }) {
+export default function GalleryGrid({ items }: { items: GalleryEntry[] }) {
   return (
     <div className="gallery-grid">
-      {images.map((src, i) => (
-        <div key={i} className="gallery-item">
-          <Image src={src} alt={`Gallery image ${i + 1}`} width={480} height={480} />
-        </div>
+      {items.map((item, i) => (
+        <figure key={i} className="gallery-card">
+          <div className="gallery-card-image">
+            <Image
+              src={item.image}
+              alt={item.title}
+              width={480}
+              height={360}
+            />
+          </div>
+          <figcaption className="gallery-card-body">
+            <h3>{item.title}</h3>
+            <p>{item.caption}</p>
+          </figcaption>
+        </figure>
       ))}
     </div>
   );
