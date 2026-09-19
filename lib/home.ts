@@ -1,9 +1,9 @@
 // Homepage section content for Zhuxing Pyrotechnics.
 
 export const promoBanner = {
-  eyebrow: "Factory Direct — OEM / ODM Welcome",
+  eyebrow: "Factory Direct — Wholesale Welcome",
   title: "Wholesale Pyrotechnic & Stage Effect Equipment",
-  body: "Buy direct from the manufacturer: cold spark machines, wireless firing systems, electric igniters, mortar tubes and gender-reveal effects. Competitive factory pricing, custom branding and worldwide shipping.",
+  body: "Buy direct from the manufacturer: cold spark machines, wireless firing systems, electric igniters, mortar tubes and color smoke effects. Competitive factory pricing and worldwide shipping.",
   cta: { label: "Request a Quote", href: "/contact" }
 };
 

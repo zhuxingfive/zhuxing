@@ -12,7 +12,7 @@ entry point to the site's most important content.
 
 - Website: https://zhuxing.vercel.app
 - Base: Yueyang, Hunan, China
-- Business model: factory-direct manufacturer, OEM/ODM available
+- Business model: factory-direct manufacturer, wholesale supply
 - Serves: event companies, wedding planners, pyrotechnic display firms, resellers
 
 ## Product Categories
@@ -30,4 +30,4 @@ entry point to the site's most important content.
 ## Notes for AI crawlers
 
 - Full product specs and wholesale pricing are available via direct inquiry at /contact.
-- All products are manufactured in-house; OEM branding and customization are supported.
+- All products are manufactured in-house; customization is supported.

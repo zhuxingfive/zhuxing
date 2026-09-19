@@ -21,7 +21,7 @@ export default function ProductCategoryIndexPage() {
       />
       <h1>Our Product Range</h1>
       <p className="category-desc">
-        Choose a category to see all models. Every product ships factory-direct with OEM/ODM options.
+        Choose a category to see all models. Every product ships factory-direct with wholesale pricing.
       </p>
       <div className="category-grid">
         {productCategories.map((cat) => (

@@ -64,14 +64,14 @@ export const products: Product[] = [
     name: "ED08 Wireless Cold Spark Fountain Firing System – 8 Cue Pyrotechnic Stage Igniter",
     tagline: "8-channel wireless firing box for cold pyro fountains and stage sparks",
     description:
-      "The ED08 is an eight-cue wireless firing system built for planners who cue multiple cold-spark fountains from a single handheld remote. Each of its eight channels fires an independent effect, so a wedding first dance, a stage reveal and a finale burst can be sequenced without a single cable running across the venue.\n\nBecause it drives smokeless cold pyro fountains rather than open flame, the ED08 is safe to trigger metres from guests, indoors and under low ceilings. The lightweight plastic housing keeps the whole kit portable for touring event teams, and the remote's clear channel layout means an operator can learn the box in minutes rather than hours.\n\nSold factory-direct, the ED08 suits wedding studios, event rental companies and stage production houses that need dependable, repeatable ignition across an eight-effect show. Contact us for wholesale pricing, OEM branding and volume lead times.",
+      "The ED08 is an eight-cue wireless firing system built for planners who cue multiple cold-spark fountains from a single handheld remote. Each of its eight channels fires an independent effect, so a wedding first dance, a stage reveal and a finale burst can be sequenced without a single cable running across the venue.\n\nBecause it drives smokeless cold pyro fountains rather than open flame, the ED08 is safe to trigger metres from guests, indoors and under low ceilings. The lightweight plastic housing keeps the whole kit portable for touring event teams, and the remote's clear channel layout means an operator can learn the box in minutes rather than hours.\n\nSold factory-direct, the ED08 suits wedding studios, event rental companies and stage production houses that need dependable, repeatable ignition across an eight-effect show. Contact us for wholesale pricing, custom configurations and volume lead times.",
     features: [
       "8 independently controllable wireless firing cues",
       "Drives smokeless, flameless cold spark fountains",
       "Handheld remote control — no venue cabling required",
       "Lightweight plastic body for touring and rental use",
       "Ideal for weddings, birthdays and New Year stage shows",
-      "Factory-direct with OEM branding available"
+      "Factory-direct with wholesale pricing available"
     ],
     specs: {
       Model: "ED08",
@@ -107,7 +107,7 @@ export const products: Product[] = [
       "Wireless remote sequencing for layered effects",
       "No smoke, no flame — ballroom and broadcast safe",
       "Rugged plastic housing for repeated transport",
-      "Wholesale and OEM configurations available"
+      "Wholesale configurations available"
     ],
     specs: {
       Model: "ED12",
@@ -206,7 +206,7 @@ export const products: Product[] = [
     name: "700W Cold Spark Machine with Flight Case – IP66 Cold Sparkler Fountain for Weddings",
     tagline: "700W cold spark fountain machine, remote controlled, road-case ready",
     description:
-      "This 700-watt cold spark machine is the workhorse fountain for professional event floors. It throws a dense, bright column of cold sparks on command via wireless remote or DMX, and its IP66-rated housing lets it run in demanding indoor and semi-outdoor conditions without missing a cue.\n\nWe ship it as a factory kit: two machines paired with a remote and a fitted flight case, so a rental company can pull a ready-to-work pair off the truck and set up in minutes. The road case protects the units between gigs and keeps the whole package inventory-friendly.\n\nRated at 700 W, it delivers the punchy fountain height that ballrooms and concert stages demand while remaining a true cold effect — safe near guests and performers. It is built for wedding studios, nightclubs and production companies buying by the pair or the pallet. Ask about multi-case pricing and OEM finishes.",
+      "This 700-watt cold spark machine is the workhorse fountain for professional event floors. It throws a dense, bright column of cold sparks on command via wireless remote or DMX, and its IP66-rated housing lets it run in demanding indoor and semi-outdoor conditions without missing a cue.\n\nWe ship it as a factory kit: two machines paired with a remote and a fitted flight case, so a rental company can pull a ready-to-work pair off the truck and set up in minutes. The road case protects the units between gigs and keeps the whole package inventory-friendly.\n\nRated at 700 W, it delivers the punchy fountain height that ballrooms and concert stages demand while remaining a true cold effect — safe near guests and performers. It is built for wedding studios, nightclubs and production companies buying by the pair or the pallet. Ask about multi-case pricing and custom finishes.",
     features: [
       "700W cold spark fountain output",
       "Wireless remote and DMX control",
@@ -276,7 +276,7 @@ export const products: Product[] = [
     name: "Professional Bubble Machine for Weddings & Stage – High Output Party Bubble Maker",
     tagline: "High-output bubble machine for soft, romantic event atmospheres",
     description:
-      "Not every moment calls for sparks — sometimes a room needs a soft drift of bubbles, and this bubble machine delivers that dreamy, photogenic atmosphere on demand. It pushes a dense stream of bubbles across a dance floor or stage, filling the air for first dances, children's parties and whimsical stage cues.\n\nBuilt for repeat professional use, it pairs a generous fluid reservoir with a high-output fan so it keeps producing without constant refills, and it is simple enough that any venue staffer can run it. As part of a dual-effect stage line, it complements our cold spark machines perfectly: sparks for the big beat, bubbles for the tender one.\n\nCompact and easy to transport, it is a low-cost, high-margin add-on for event rental fleets and wedding decorators who want to broaden their effect menu. Get in touch for wholesale quantities, matching bubble fluid and OEM options.",
+      "Not every moment calls for sparks — sometimes a room needs a soft drift of bubbles, and this bubble machine delivers that dreamy, photogenic atmosphere on demand. It pushes a dense stream of bubbles across a dance floor or stage, filling the air for first dances, children's parties and whimsical stage cues.\n\nBuilt for repeat professional use, it pairs a generous fluid reservoir with a high-output fan so it keeps producing without constant refills, and it is simple enough that any venue staffer can run it. As part of a dual-effect stage line, it complements our cold spark machines perfectly: sparks for the big beat, bubbles for the tender one.\n\nCompact and easy to transport, it is a low-cost, high-margin add-on for event rental fleets and wedding decorators who want to broaden their effect menu. Get in touch for wholesale quantities, matching bubble fluid and custom options.",
     features: [
       "High-output continuous bubble stream",
       "Large fluid reservoir for long run time",
@@ -312,7 +312,7 @@ export const products: Product[] = [
     name: "Gender Reveal Color Smoke Machine – Pink Blue Smoke Effect for Reveal Parties",
     tagline: "Vivid pink or blue smoke output for the big reveal moment",
     description:
-      "The reveal is the whole point of a gender reveal party, and this color smoke machine makes that moment unmistakable. It releases a thick, saturated cloud of pink or blue smoke that photographs beautifully against any backdrop — the kind of shot parents frame and share for years.\n\nUnlike a hand-held smoke stick that fizzles in seconds, a machine gives the operator control: a sustained, even plume that lasts long enough for the crowd to react and the camera to catch it. That reliability is why event photographers and reveal-party planners prefer a dedicated machine over disposables.\n\nAs a reusable centrepiece paired with our refill smoke fluid, it turns a one-off consumable sale into an ongoing supply relationship. It is a strong retail and rental line for party stores and event companies expanding into the fast-growing reveal category. Contact us for color options, wholesale pricing and OEM branding.",
+      "The reveal is the whole point of a gender reveal party, and this color smoke machine makes that moment unmistakable. It releases a thick, saturated cloud of pink or blue smoke that photographs beautifully against any backdrop — the kind of shot parents frame and share for years.\n\nUnlike a hand-held smoke stick that fizzles in seconds, a machine gives the operator control: a sustained, even plume that lasts long enough for the crowd to react and the camera to catch it. That reliability is why event photographers and reveal-party planners prefer a dedicated machine over disposables.\n\nAs a reusable centrepiece paired with our refill smoke fluid, it turns a one-off consumable sale into an ongoing supply relationship. It is a strong retail and rental line for party stores and event companies expanding into the fast-growing reveal category. Contact us for color options, wholesale pricing and custom branding.",
     features: [
       "Thick, saturated pink or blue smoke output",
       "Sustained plume for photo-perfect reveals",
@@ -449,14 +449,14 @@ export const products: Product[] = [
     name: "Ematch Electric Igniter for Fireworks – 0.3m to 5m Pyrotechnic Display Ignition Wire",
     tagline: "Copper-wire e-match igniters in five lead lengths",
     description:
-      "The electric igniter — or e-match — is the tiny component that actually lights the show. Ours uses a durable copper wire lead and comes in 0.3 m, 1 m, 2 m, 3 m and 5 m lengths so a pyrotechnician can match the lead to the distance between the firing rail and each device.\n\nHaving the full length range from one manufacturer matters: a crew can standardise on a single trusted igniter for close-in stage effects and long-run field cues alike, instead of mixing brands with inconsistent firing behaviour. Consistent ignition is the difference between a clean, synchronised display and a mistimed one.\n\nAs a per-shot consumable, e-matches are ordered in large quantities for every display, making them a cornerstone wholesale product for pyrotechnic distributors and professional firing teams. Contact us for bulk pricing across the length range, custom lead lengths and OEM packaging.",
+      "The electric igniter — or e-match — is the tiny component that actually lights the show. Ours uses a durable copper wire lead and comes in 0.3 m, 1 m, 2 m, 3 m and 5 m lengths so a pyrotechnician can match the lead to the distance between the firing rail and each device.\n\nHaving the full length range from one manufacturer matters: a crew can standardise on a single trusted igniter for close-in stage effects and long-run field cues alike, instead of mixing brands with inconsistent firing behaviour. Consistent ignition is the difference between a clean, synchronised display and a mistimed one.\n\nAs a per-shot consumable, e-matches are ordered in large quantities for every display, making them a cornerstone wholesale product for pyrotechnic distributors and professional firing teams. Contact us for bulk pricing across the length range, custom lead lengths and bulk packaging.",
     features: [
       "Durable copper-wire electric match igniter",
       "Available in 0.3 m, 1 m, 2 m, 3 m and 5 m leads",
       "Consistent ignition for synchronized firing",
       "One trusted igniter for stage and field cues",
       "High-volume per-shot consumable",
-      "Custom lengths and OEM packaging available"
+      "Custom lengths and bulk packaging available"
     ],
     specs: {
       Model: "Ematch",
@@ -515,14 +515,14 @@ export const products: Product[] = [
     name: "AM04R-3 Wireless Fireworks Firing System – Remote Pyrotechnic Ignition Controller",
     tagline: "Compact wireless firing system for smaller synchronized shows",
     description:
-      "The AM04R-3 is a wireless remote firing system for pyrotechnicians who need dependable, cable-free ignition on smaller and mid-size displays. It receives firing commands over a secure radio link and triggers connected igniters precisely on cue, so effects fire in the sequence the operator intends.\n\nWireless control transforms setup on difficult sites: no long firing lines to run across roads, water or crowds, and the operator stays at a safe, comfortable firing position. For close-proximity work — weddings, private events, indoor stages — that flexibility and safety margin is a genuine advantage.\n\nBuilt as part of a scalable firing-system family, the AM04R-3 lets a display company start compact and expand with matching receivers as show sizes grow. It suits event firms, wedding pyro specialists and rental operators. Contact us for system bundles, channel configurations and OEM options.",
+      "The AM04R-3 is a wireless remote firing system for pyrotechnicians who need dependable, cable-free ignition on smaller and mid-size displays. It receives firing commands over a secure radio link and triggers connected igniters precisely on cue, so effects fire in the sequence the operator intends.\n\nWireless control transforms setup on difficult sites: no long firing lines to run across roads, water or crowds, and the operator stays at a safe, comfortable firing position. For close-proximity work — weddings, private events, indoor stages — that flexibility and safety margin is a genuine advantage.\n\nBuilt as part of a scalable firing-system family, the AM04R-3 lets a display company start compact and expand with matching receivers as show sizes grow. It suits event firms, wedding pyro specialists and rental operators. Contact us for system bundles, channel configurations and wholesale options.",
     features: [
       "Secure wireless radio firing control",
       "Precise on-cue ignition of connected igniters",
       "No long firing lines across the site",
       "Safe operator firing distance",
       "Scalable within a matched receiver family",
-      "System bundles and OEM options available"
+      "System bundles and wholesale options available"
     ],
     specs: {
       Model: "AM04R-3",

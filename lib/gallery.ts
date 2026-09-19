@@ -89,7 +89,7 @@ export const workshopGallery: GalleryEntry[] = [
     image: "/workshop/workshop-8.jpg",
     title: "Cold Spark Machine Warehouse",
     caption:
-      "Hundreds of assembled cold spark machines stacked and stored, ready for wholesale orders and OEM dispatch worldwide."
+      "Hundreds of assembled cold spark machines stacked and stored, ready for wholesale orders and dispatch worldwide."
   },
   {
     image: "/workshop/workshop-9.jpg",

@@ -31,8 +31,8 @@ const pillars = [
         <path d="M18 9h1v1" />
       </svg>
     ),
-    title: "Factory-Direct with OEM/ODM",
-    body: "Competitive manufacturer pricing, custom branding, flexible customization and dedicated after-sales support for event professionals and resellers worldwide."
+    title: "Factory-Direct Supply",
+    body: "Competitive manufacturer pricing, flexible configurations and dedicated after-sales support for event professionals and resellers worldwide."
   }
 ];
 

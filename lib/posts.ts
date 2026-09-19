@@ -88,12 +88,12 @@ export const posts: Post[] = [
           "Our 200 g composite titanium powder delivers roughly 15–20 minutes of cumulative working time per charge, depending on the machine setting and desired fountain height."
       },
       {
-        question: "Can I buy cold spark machines wholesale with my own branding?",
+        question: "Can I buy cold spark machines wholesale at factory prices?",
         answer:
-          "Yes. We are the factory and support OEM/ODM branding, custom finishes and volume pricing. Contact us for a wholesale quotation."
+          "Yes. We are the factory and support custom finishes and volume pricing. Contact us for a wholesale quotation."
       }
     ],
-    cta: "Looking to stock cold spark machines and titanium powder at factory prices? Contact our team for wholesale pricing and OEM options."
+    cta: "Looking to stock cold spark machines and titanium powder at factory prices? Contact our team for wholesale pricing and volume options."
   },
   {
     slug: "cold-spark-machine-vs-fireworks",
@@ -343,13 +343,13 @@ export const posts: Post[] = [
     slug: "sourcing-pyrotechnic-equipment-from-china-factory",
     title: "Sourcing Cold Spark & Fireworks Equipment From a China Factory: A Buyer's Guide",
     description:
-      "How to source cold spark machines, firing systems and fireworks equipment directly from a China factory — MOQ, OEM, quality control, shipping and avoiding middlemen.",
+      "How to source cold spark machines, firing systems and fireworks equipment directly from a China factory — MOQ, customization, quality control, shipping and avoiding middlemen.",
     datePublished: "2026-09-18",
     category: "Sourcing & Wholesale",
     readingTime: "8 min read",
     cover: "/workshop/workshop-1.jpg",
     tldr: [
-      "Buying factory-direct removes trading-company markup and gives you OEM control.",
+      "Buying factory-direct removes trading-company markup and gives you customization control.",
       "Confirm the supplier actually manufactures — ask for workshop photos and certifications.",
       "Clarify MOQ, lead time, customization and after-sales before ordering.",
       "A single factory for machines, powder, systems and hardware simplifies your supply chain."
@@ -358,7 +358,7 @@ export const posts: Post[] = [
       "cold spark machine factory china",
       "fireworks equipment manufacturer china",
       "pyrotechnic equipment wholesale supplier",
-      "cold sparkler oem manufacturer"
+      "cold sparkler wholesale manufacturer"
     ],
     body: [
       {
@@ -371,7 +371,7 @@ export const posts: Post[] = [
       {
         heading: "What to confirm before you order",
         paragraphs: [
-          "Nail down four things: minimum order quantity, lead time, customization options (OEM/ODM, colors, branding, packaging) and after-sales support. For consumables like titanium powder and smoke fluid, also confirm ongoing supply reliability — your rental calendar depends on it.",
+          "Nail down four things: minimum order quantity, lead time, customization options (colors, configurations, packaging) and after-sales support. For consumables like titanium powder and smoke fluid, also confirm ongoing supply reliability — your rental calendar depends on it.",
           "For regulated items like electric igniters, request compliance documentation such as an MSDS. A serious factory will have this ready, which also smooths your import and logistics."
         ]
       },
@@ -379,7 +379,7 @@ export const posts: Post[] = [
         heading: "Consolidate your supply chain",
         paragraphs: [
           "The most efficient buyers source their entire range from one capable factory: cold spark machines and powder, gender-reveal effects, firing systems, igniters, wire, mortar tubes and racks. One supplier means one shipment, one point of contact, consistent quality and simpler reordering.",
-          "Our factory in Yueyang, China manufactures across all of these categories, serving event companies, wedding professionals, display firms and resellers worldwide with OEM/ODM support and direct after-sales."
+          "Our factory in Yueyang, China manufactures across all of these categories, serving event companies, wedding professionals, display firms and resellers worldwide with customization support and direct after-sales."
         ]
       }
     ],
@@ -390,9 +390,9 @@ export const posts: Post[] = [
           "MOQ varies by product. Contact us with the items and quantities you need and we'll provide a tailored quotation and lead time."
       },
       {
-        question: "Do you provide OEM/ODM and custom branding?",
+        question: "Do you provide customization options?",
         answer:
-          "Yes. As the manufacturer we support OEM/ODM, custom colors, branding and packaging across our product range."
+          "Yes. As the manufacturer we support custom colors, configurations and packaging across our product range."
       },
       {
         question: "Can you supply compliance documents like MSDS?",
@@ -400,7 +400,7 @@ export const posts: Post[] = [
           "Yes. We can provide documentation such as the MSDS for electric igniters to support your import and safety requirements."
       }
     ],
-    cta: "Ready to source factory-direct? Tell us your product list and target quantities for a fast wholesale quotation with OEM options."
+    cta: "Ready to source factory-direct? Tell us your product list and target quantities for a fast wholesale quotation with customization options."
   },
   {
     slug: "cold-spark-machine-wedding-setup-guide",
@@ -449,7 +449,7 @@ export const posts: Post[] = [
         heading: "Equip your rental fleet the smart way",
         paragraphs: [
           "Wedding and events companies that offer cold sparks as a package build a fleet of reliable machines plus a steady titanium powder supply. Buying both from one factory keeps every booking looking identical and protects margin across a busy season.",
-          "As the manufacturer of the machines and the powder, we help wedding professionals scale their cold-spark offering with factory pricing, matched multi-unit sets and OEM branding."
+          "As the manufacturer of the machines and the powder, we help wedding professionals scale their cold-spark offering with factory pricing, matched multi-unit sets and custom options."
         ]
       }
     ],
@@ -623,7 +623,7 @@ export const posts: Post[] = [
     cover: "/workshop/workshop-2.jpg",
     tldr: [
       "Trade shows are ideal for comparing suppliers side by side — but prepare a checklist first.",
-      "Prioritize actual manufacturers over trading companies for pricing and OEM control.",
+      "Prioritize actual manufacturers over trading companies for pricing and customization control.",
       "Ask about MOQ, lead time, customization, compliance docs and after-sales.",
       "Follow up with a sample or trial order before committing to volume."
     ],
@@ -644,7 +644,7 @@ export const posts: Post[] = [
       {
         heading: "Manufacturer or middleman?",
         paragraphs: [
-          "The first thing to establish at any booth is whether you are talking to the actual manufacturer or a trading company reselling someone else's products. Manufacturers offer better pricing, direct OEM/ODM control and genuine technical support; middlemen add margin without added value.",
+          "The first thing to establish at any booth is whether you are talking to the actual manufacturer or a trading company reselling someone else's products. Manufacturers offer better pricing, direct customization control and genuine technical support; middlemen add margin without added value.",
           "Ask to see workshop photos, production capability and certifications. A real factory answers confidently; a reseller deflects."
         ]
       },
@@ -659,7 +659,7 @@ export const posts: Post[] = [
         heading: "From booth to purchase order",
         paragraphs: [
           "Don't commit to volume on the show floor. Collect quotes, request a sample or small trial order, and verify quality before scaling up. A supplier confident in their product will welcome a trial.",
-          "As a manufacturer of cold spark machines, powder, firing systems, igniters, tubes and racks, we support buyers with samples, transparent factory pricing and OEM options — whether you meet us at a show or reach out directly."
+          "As a manufacturer of cold spark machines, powder, firing systems, igniters, tubes and racks, we support buyers with samples, transparent factory pricing and customization options — whether you meet us at a show or reach out directly."
         ]
       }
     ],
@@ -672,7 +672,7 @@ export const posts: Post[] = [
       {
         question: "What should I ask a special effects supplier before buying?",
         answer:
-          "MOQ, lead time, customization/OEM options, compliance documents like MSDS, after-sales support, and consumable supply reliability."
+          "MOQ, lead time, customization options, compliance documents like MSDS, after-sales support, and consumable supply reliability."
       },
       {
         question: "Should I place a large order at a trade show?",

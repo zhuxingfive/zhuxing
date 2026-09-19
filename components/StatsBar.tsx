@@ -4,7 +4,7 @@ const stats = [
   { value: "10+", label: "Years Manufacturing" },
   { value: "19+", label: "Product Models" },
   { value: "3", label: "Product Categories" },
-  { value: "OEM/ODM", label: "Custom Branding" }
+  { value: "Worldwide", label: "Factory-Direct Supply" }
 ];
 
 export default function StatsBar() {

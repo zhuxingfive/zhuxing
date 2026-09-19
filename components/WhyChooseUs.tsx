@@ -3,7 +3,6 @@ import Link from "next/link";
 
 const points = [
   "Direct factory pricing — no trading-company markup",
-  "OEM/ODM: custom branding, colors and packaging",
   "In-house production from igniters to firing systems",
   "Strict quality control and MSDS documentation",
   "Reliable consumable supply for rental fleets",

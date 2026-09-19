@@ -1,5 +1,4 @@
 import Link from "next/link";
-import { site } from "@/lib/site";
 
 export default function Hero() {
   return (
@@ -7,20 +6,30 @@ export default function Hero() {
       className="hero"
       style={{
         backgroundImage:
-          "linear-gradient(to right, rgba(10,12,20,0.85), rgba(10,12,20,0.45)), url('/banners/hero.jpg')"
+          "linear-gradient(115deg, rgba(11,18,32,0.92) 0%, rgba(11,18,32,0.72) 45%, rgba(11,18,32,0.45) 100%), url('/banners/hero.jpg')"
       }}
     >
       <div className="container hero-inner">
-        <p className="hero-eyebrow">{site.tagline}</p>
-        <h1>Fireworks Firing Systems, Cold Spark Machines &amp; Display Equipment — Factory Direct</h1>
-        <p className="hero-sub">{site.description}</p>
+        <p className="hero-eyebrow">Pyrotechnic &amp; Stage Effect Equipment Manufacturer</p>
+        <h1>Professional Firing Systems &amp; Stage Effect Equipment, Factory Direct</h1>
+        <p className="hero-sub">
+          Cold spark machines, firing systems, igniters, mortar tubes and event effects for
+          distributors, production teams and display professionals.
+        </p>
         <div className="hero-actions">
-          <Link href="/product-category" className="btn btn-primary">
-            View Our Catalogue
-          </Link>
-          <Link href="/contact" className="btn btn-outline-light">
+          <Link href="/contact" className="btn btn-primary">
             Request a Quote
           </Link>
+          <Link href="/product-category" className="btn btn-outline-light">
+            Explore Products
+          </Link>
+        </div>
+        <div className="hero-proof">
+          <span>Factory Direct</span>
+          <span className="dot" />
+          <span>Wholesale Supply</span>
+          <span className="dot" />
+          <span>Technical Support</span>
         </div>
       </div>
     </section>

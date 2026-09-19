@@ -22,10 +22,10 @@ export const inquiryIntents: InquiryIntent[] = [
       "Hello, I would like to request a sample kit before placing a bulk order. Please advise on sample cost, shipping options, and lead time."
   },
   {
-    id: "oem-odm",
-    label: "OEM / ODM Inquiry",
+    id: "customization",
+    label: "Customization Inquiry",
     presetMessage:
-      "Hello, we are interested in OEM/ODM cooperation. Please share your customization capabilities, minimum order quantity, and private-label process."
+      "Hello, we are interested in customization. Please share your available options (colors, configurations, packaging), minimum order quantity, and process."
   },
   {
     id: "general",
@@ -38,7 +38,7 @@ export const enquiryTypes = [
   "Product question",
   "Quotation request",
   "Sample request",
-  "OEM/ODM cooperation",
+  "Customization",
   "After-sales / support",
   "Other"
 ];
