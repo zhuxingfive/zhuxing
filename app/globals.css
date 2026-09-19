@@ -1,11 +1,13 @@
 :root {
-  --color-bg: #ffffff;
-  --color-text: #16181d;
-  --color-muted: #5b6270;
-  --color-primary: #c8102e; /* TODO: replace with brand color */
-  --color-primary-dark: #99091f;
-  --color-border: #e6e8ec;
-  --color-surface: #f7f8fa;
+  --color-bg: #0e1014;
+  --color-text: #eceef2;
+  --color-muted: #a2a8b4;
+  --color-primary: #e11d3a;
+  --color-primary-dark: #b3152c;
+  --color-accent: #ffcf6b;
+  --color-border: #262b35;
+  --color-surface: #15181f;
+  --color-card: #1a1e27;
   --max-width: 1200px;
   --radius: 8px;
 }
@@ -25,6 +27,26 @@ body {
   color: var(--color-text);
   background: var(--color-bg);
   line-height: 1.6;
+}
+
+/* Scroll reveal animation */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.7s cubic-bezier(0.22, 1, 0.36, 1),
+    transform 0.7s cubic-bezier(0.22, 1, 0.36, 1);
+  will-change: opacity, transform;
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
+  }
 }
 
 a {
@@ -171,7 +193,7 @@ img {
   margin-top: 24px;
 }
 .category-card {
-  background: var(--color-bg);
+  background: var(--color-card);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   padding: 20px;
@@ -184,6 +206,7 @@ img {
   border-radius: var(--radius);
   overflow: hidden;
   margin-bottom: 16px;
+  background: #fff;
 }
 .link-arrow {
   color: var(--color-primary);
@@ -201,6 +224,7 @@ img {
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   padding: 16px;
+  background: var(--color-card);
 }
 .product-card:hover {
   box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
@@ -209,6 +233,7 @@ img {
   border-radius: var(--radius);
   overflow: hidden;
   margin-bottom: 12px;
+  background: #fff;
 }
 
 /* Inquiry form */
@@ -249,6 +274,18 @@ img {
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   font: inherit;
+  background: var(--color-surface);
+  color: var(--color-text);
+}
+.inquiry-form input::placeholder,
+.inquiry-form textarea::placeholder {
+  color: var(--color-muted);
+}
+.inquiry-form input:focus,
+.inquiry-form select:focus,
+.inquiry-form textarea:focus {
+  outline: none;
+  border-color: var(--color-primary);
 }
 .inquiry-form textarea {
   margin-bottom: 16px;
@@ -262,11 +299,11 @@ img {
   color: var(--color-muted);
 }
 .form-status.success {
-  color: #1a7a3b;
+  color: #4ade80;
   margin-top: 12px;
 }
 .form-status.error {
-  color: #b3261e;
+  color: #f87171;
   margin-top: 12px;
 }
 
@@ -293,7 +330,7 @@ img {
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   overflow: hidden;
-  background: var(--color-bg);
+  background: var(--color-card);
   display: flex;
   flex-direction: column;
   transition: box-shadow 0.2s ease, transform 0.2s ease;
@@ -492,7 +529,9 @@ img {
 
 /* Gallery CTA */
 .gallery-cta {
-  background: #16181d;
+  background: linear-gradient(135deg, #1a1e27 0%, #2a1216 100%);
+  border-top: 1px solid var(--color-border);
+  border-bottom: 1px solid var(--color-border);
   color: #fff;
   padding: 72px 0;
   text-align: center;
@@ -518,7 +557,7 @@ img {
 .event-card {
   display: flex;
   gap: 24px;
-  background: var(--color-bg);
+  background: var(--color-card);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   padding: 20px 24px;
@@ -598,6 +637,10 @@ img {
 .product-gallery {
   display: grid;
   gap: 12px;
+}
+.product-gallery img {
+  background: #fff;
+  border-radius: var(--radius);
 }
 .product-tagline {
   color: var(--color-muted);
@@ -762,7 +805,7 @@ img {
   overflow: hidden;
   display: flex;
   flex-direction: column;
-  background: var(--color-bg);
+  background: var(--color-card);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 .blog-card:hover {
@@ -964,7 +1007,7 @@ img {
   height: 38px;
   border-radius: 50%;
   border: 1px solid var(--color-border);
-  background: var(--color-bg);
+  background: var(--color-card);
   font-size: 1.3rem;
   line-height: 1;
   cursor: pointer;
@@ -985,6 +1028,7 @@ img {
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   padding: 14px;
+  background: var(--color-card);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
 }
 .featured-product-card:hover {
@@ -996,6 +1040,7 @@ img {
   border-radius: var(--radius);
   overflow: hidden;
   margin-bottom: 12px;
+  background: #fff;
 }
 .featured-product-image img {
   width: 100%;
@@ -1085,7 +1130,7 @@ img {
   margin-bottom: 16px;
 }
 .pillar {
-  background: var(--color-bg);
+  background: var(--color-card);
   border: 1px solid var(--color-border);
   border-radius: var(--radius);
   padding: 28px 24px;

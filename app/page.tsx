@@ -8,20 +8,37 @@ import WhyChooseUs from "@/components/WhyChooseUs";
 import CategoryShowcase from "@/components/CategoryShowcase";
 import CustomerNotice from "@/components/CustomerNotice";
 import GalleryCTA from "@/components/GalleryCTA";
+import Reveal from "@/components/Reveal";
 
 export default function HomePage() {
   return (
     <>
       <Hero />
       <StatsBar />
-      <PromoBanner />
-      <FeaturedCategories />
-      <TrustPillars />
-      <Applications />
-      <WhyChooseUs />
-      <CategoryShowcase />
-      <CustomerNotice />
-      <GalleryCTA />
+      <Reveal>
+        <PromoBanner />
+      </Reveal>
+      <Reveal>
+        <FeaturedCategories />
+      </Reveal>
+      <Reveal>
+        <TrustPillars />
+      </Reveal>
+      <Reveal>
+        <Applications />
+      </Reveal>
+      <Reveal>
+        <WhyChooseUs />
+      </Reveal>
+      <Reveal>
+        <CategoryShowcase />
+      </Reveal>
+      <Reveal>
+        <CustomerNotice />
+      </Reveal>
+      <Reveal>
+        <GalleryCTA />
+      </Reveal>
     </>
   );
 }
