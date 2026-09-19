@@ -4,6 +4,7 @@
   --color-muted: #a2a8b4;
   --color-primary: #e11d3a;
   --color-primary-dark: #b3152c;
+  --color-primary-text: #ff5a72;
   --color-accent: #ffcf6b;
   --color-border: #262b35;
   --color-surface: #15181f;
@@ -127,7 +128,7 @@ img {
   text-align: center;
 }
 .hero-eyebrow {
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
@@ -209,7 +210,7 @@ img {
   background: #fff;
 }
 .link-arrow {
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   font-weight: 600;
 }
 
@@ -391,7 +392,7 @@ img {
   border-bottom: 1px solid var(--color-border);
 }
 .downloads-group a {
-  color: var(--color-primary);
+  color: var(--color-primary-text);
 }
 
 /* Breadcrumb */
@@ -417,7 +418,7 @@ img {
 }
 .tldr-label {
   font-weight: 700;
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   margin: 0 0 8px;
 }
 
@@ -490,7 +491,7 @@ img {
   margin: 0 0 8px;
 }
 .customer-notice a {
-  color: var(--color-primary);
+  color: var(--color-primary-text);
 }
 
 /* Category showcase (alternating image/text) */
@@ -515,7 +516,7 @@ img {
   overflow: hidden;
 }
 .showcase-eyebrow {
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   text-transform: uppercase;
   letter-spacing: 0.05em;
   font-weight: 600;
@@ -598,7 +599,7 @@ img {
   padding: 72px 0;
 }
 .social-handle a {
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   font-weight: 600;
 }
 .social-grid {
@@ -767,7 +768,7 @@ img {
 }
 .category-tagline {
   font-size: 1.15rem;
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   font-weight: 600;
 }
 .category-desc {
@@ -781,7 +782,7 @@ img {
 }
 .about-lead {
   font-size: 1.2rem;
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   font-weight: 600;
 }
 .about-body {
@@ -994,7 +995,7 @@ img {
   flex-shrink: 0;
 }
 .featured-cat-viewall {
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   font-weight: 600;
   white-space: nowrap;
 }
@@ -1065,7 +1066,7 @@ img {
 }
 .section-eyebrow {
   display: inline-block;
-  color: var(--color-primary);
+  color: var(--color-primary-text);
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.08em;
