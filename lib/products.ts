@@ -26,7 +26,7 @@ export type Product = {
 };
 
 const img = (slug: string, count: number): string[] =>
-  Array.from({ length: count }, (_, i) => `/products/${slug}/${slug}-${i + 1}.jpg`);
+  Array.from({ length: count }, (_, i) => `/products/${slug}/${i + 1}.jpg`);
 
 export const productCategories: ProductCategory[] = [
   {
@@ -39,10 +39,10 @@ export const productCategories: ProductCategory[] = [
   },
   {
     slug: "gender-reveal",
-    name: "Gender Reveal Effects",
-    tagline: "Color smoke machines, powder and confetti cannons for reveal moments",
+    name: "Color Smoke & Gender Reveal Effects",
+    tagline: "Color smoke machines, smoke fluid and powder cannons for reveals, parties and photo shoots",
     description:
-      "Pink and blue color smoke machines, refill smoke fluid and powder confetti cannons built for photogenic gender reveal parties — long-range dispersion, vivid color and reliable single-press activation for planners and resellers.",
+      "Vivid color smoke machines, refill smoke fluid and powder confetti cannons built for gender reveals, festivals, music videos, sports events and photogenic parties — dense, long-lasting color, safe non-toxic formulas and reliable activation for planners, studios and resellers.",
     heroImage: "/banners/gallery.jpg"
   },
   {
@@ -196,7 +196,7 @@ export const products: Product[] = [
       "composite titanium metal powder",
       "stage ti powder cold spark"
     ],
-    images: img("titanium-powder", 5),
+    images: img("titanium-powder", 3),
     relatedSlugs: ["cold-spark-machine", "mini-cold-spark-machine", "ed12"]
   },
   {
@@ -300,7 +300,7 @@ export const products: Product[] = [
       "stage bubble maker",
       "party bubble machine wholesale"
     ],
-    images: img("bubble-machine", 5),
+    images: img("bubble-machine", 4),
     relatedSlugs: ["cold-spark-machine", "mini-cold-spark-machine", "h001"]
   },
 
