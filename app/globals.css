@@ -8,9 +8,9 @@
   --color-card: #ffffff;
   --color-text: #171a21;
   --color-muted: #667085;
-  --color-primary: #e36a2e;
-  --color-primary-dark: #c55a22;
-  --color-primary-text: #c55a22;
+  --color-primary: #c2551f;
+  --color-primary-dark: #a2451a;
+  --color-primary-text: #9a4118;
   --color-accent: #c9a96e;
   --color-border: #d9dde5;
   --color-border-dark: #24303f;
@@ -135,7 +135,71 @@ img {
   background: var(--color-primary);
   color: #fff;
   padding: 8px 18px;
-  border-radius: var(--radius);
+  border-radius: var(--radius-btn);
+  font-weight: 600;
+}
+.nav-cta:hover {
+  background: var(--color-primary-dark);
+}
+
+/* Mobile nav toggle */
+.nav-toggle {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 44px;
+  height: 44px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 10px;
+}
+.nav-toggle-bar {
+  display: block;
+  width: 100%;
+  height: 2px;
+  background: var(--color-text);
+  border-radius: 2px;
+  transition: transform 0.25s ease, opacity 0.2s ease;
+}
+.nav-toggle-bar.is-open-1 {
+  transform: translateY(7px) rotate(45deg);
+}
+.nav-toggle-bar.is-open-2 {
+  opacity: 0;
+}
+.nav-toggle-bar.is-open-3 {
+  transform: translateY(-7px) rotate(-45deg);
+}
+.mobile-nav {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  padding: 12px 20px 24px;
+  border-top: 1px solid var(--color-border);
+  background: var(--color-bg);
+}
+.mobile-nav a {
+  padding: 12px 4px;
+  font-size: 1.05rem;
+  border-bottom: 1px solid var(--color-border);
+}
+.mobile-nav-label {
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--color-muted);
+  padding: 12px 4px 4px;
+}
+.mobile-nav-sub {
+  padding-left: 16px !important;
+  color: var(--color-muted);
+}
+.mobile-nav-cta {
+  margin-top: 16px;
+  text-align: center;
+  border-bottom: none !important;
 }
 
 /* Hero */
@@ -1288,7 +1352,10 @@ img {
 /* Responsive */
 @media (max-width: 768px) {
   .main-nav {
-    display: none; /* TODO: implement mobile nav toggle */
+    display: none;
+  }
+  .nav-toggle {
+    display: flex;
   }
   .hero h1 {
     font-size: 1.75rem;

@@ -289,7 +289,7 @@ export const posts: Post[] = [
     datePublished: "2026-09-18",
     category: "Gender Reveal",
     readingTime: "6 min read",
-    cover: "/products/color-smoke-machine/color-smoke-machine-2.jpg",
+    cover: "/products/color-smoke-machine/2.jpg",
     tldr: [
       "Color smoke machines give a sustained, photogenic plume and are reusable with refill fluid.",
       "Powder cannons are single-use, foolproof and great impulse retail items.",
@@ -480,7 +480,7 @@ export const posts: Post[] = [
     datePublished: "2026-09-18",
     category: "Cold Spark Machines",
     readingTime: "6 min read",
-    cover: "/products/cold-spark-machine/cold-spark-machine-1.jpg",
+    cover: "/products/cold-spark-machine/1.jpg",
     tldr: [
       "Clean powder residue after events to protect feed consistency and spark quality.",
       "Weak sparks usually mean low/damp powder or a dirty heating element.",
@@ -550,7 +550,7 @@ export const posts: Post[] = [
     datePublished: "2026-09-18",
     category: "Firing Systems",
     readingTime: "7 min read",
-    cover: "/products/fiberglass-mortar-tube/fiberglass-mortar-tube-1.jpg",
+    cover: "/products/fiberglass-mortar-tube/1.jpg",
     tldr: [
       "Match tube caliber to the shell — never fire an undersized shell from an oversized tube.",
       "Fiberglass offers a strong, lightweight, reusable balance for professional use.",
