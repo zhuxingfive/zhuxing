@@ -10,7 +10,7 @@ entry point to the site's most important content.
 
 ## Company
 
-- Website: https://zhuxing.vercel.app
+- Website: https://www.yueyangzhuxing.com
 - Base: Yueyang, Hunan, China
 - Business model: factory-direct manufacturer, wholesale supply
 - Serves: event companies, wedding planners, pyrotechnic display firms, resellers
@@ -25,6 +25,7 @@ entry point to the site's most important content.
 
 - /about — Company background and manufacturing capability
 - /gallery — Event photos and factory workshop
+- /blog — Buying guides and technical articles on cold spark machines, firing systems, igniters, mortar tube sizing and sourcing
 - /downloads — Company profile and MSDS documents
 
 ## Notes for AI crawlers

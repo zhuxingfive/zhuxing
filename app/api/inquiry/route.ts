@@ -42,8 +42,8 @@ export async function POST(req: Request) {
     return NextResponse.json({ ok: true, mailed: false });
   }
 
-  // Sender must be on a domain verified in Resend. Falls back to the sales
-  // email's domain rather than the vercel.app host (which cannot be verified).
+  // Sender must be on a domain verified in Resend, so derive it from the sales
+  // email's domain (yueyangzhuxing.com) rather than the site host.
   const fromDomain = site.email.split("@")[1] ?? site.domain;
   const from =
     process.env.INQUIRY_FROM ?? `${site.brand} Website <inquiries@${fromDomain}>`;
